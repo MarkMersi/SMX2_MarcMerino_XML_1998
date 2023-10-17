@@ -8,7 +8,7 @@
 
 XML fue desarrollado por un equipo de trabajo liderado por el **World Wide Web Consortium** _(W3C)_ que fue fundada por *Tim Berners-Lee* en la década de 1990.
 
-![Tim](https://github.com/MarcMersi/repositories/SMX2_MarcMerino_XML_1998/blob/main/tim.png)"Tim Berners-Lee"
+![Tim](https://github.com/MarkMersi/SMX2_MarcMerino_XML_1998/blob/main/tim.png)"Tim Berners-Lee"
 
 ### Cuales son las diferentes especificaciones de XML y que funciones traen?
 
